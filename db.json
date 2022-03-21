@@ -1,7 +1,6 @@
-[
-  
+{ 
   "user": {
     "id" :1,
     "fname": "nabin"
   }
-]
+}
